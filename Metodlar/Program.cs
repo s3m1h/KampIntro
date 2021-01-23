@@ -31,6 +31,7 @@ namespace Metodlar
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);
+            sepetManager.Ekle(urun1);
 
             //sepetManager.Ekle2("asef","asef",12);
 
